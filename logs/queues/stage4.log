@@ -1,0 +1,45 @@
+++ dirname scripts/run_stage4.sh
++ cd scripts/../src
++ PY=$PY
++ export PYTHONIOENCODING=utf-8
++ PYTHONIOENCODING=utf-8
++ '[' -f ../results/eval2_exact_paper2_b0.0.json ']'
++ grep -q Traceback ../logs/sweep2.log
++ sleep 60
++ '[' -f ../results/eval2_exact_paper2_b0.0.json ']'
++ grep -q Traceback ../logs/sweep2.log
++ sleep 60
++ '[' -f ../results/eval2_exact_paper2_b0.0.json ']'
++ grep -q Traceback ../logs/sweep2.log
++ sleep 60
++ '[' -f ../results/eval2_exact_paper2_b0.0.json ']'
++ grep -q Traceback ../logs/sweep2.log
++ sleep 60
++ '[' -f ../results/eval2_exact_paper2_b0.0.json ']'
++ grep -q Traceback ../logs/sweep2.log
++ sleep 60
++ '[' -f ../results/eval2_exact_paper2_b0.0.json ']'
++ grep -q Traceback ../logs/sweep2.log
++ sleep 60
++ '[' -f ../results/eval2_exact_paper2_b0.0.json ']'
++ grep -q Traceback ../logs/sweep2.log
++ sleep 60
++ '[' -f ../results/eval2_exact_paper2_b0.0.json ']'
++ grep -q Traceback ../logs/sweep2.log
++ sleep 60
++ '[' -f ../results/eval2_exact_paper2_b0.0.json ']'
++ grep -q Traceback ../logs/sweep2.log
++ sleep 60
++ '[' -f ../results/eval2_exact_paper2_b0.0.json ']'
++ grep -q Traceback ../logs/sweep2.log
++ sleep 60
++ '[' -f ../results/eval2_exact_paper2_b0.0.json ']'
++ run distill_played_b0.3 rl.py --reward played --beta 0.3 --pg distill --lr 5e-4 --steps 3000 --eval_every 500
++ tag=distill_played_b0.3
++ shift
++ $PY rl.py --reward played --beta 0.3 --pg distill --lr 5e-4 --steps 3000 --eval_every 500 --tag distill_played_b0.3
++ run distill_played_b0.1 rl.py --reward played --beta 0.1 --pg distill --lr 5e-4 --steps 3000 --eval_every 500
++ tag=distill_played_b0.1
++ shift
++ $PY rl.py --reward played --beta 0.1 --pg distill --lr 5e-4 --steps 3000 --eval_every 500 --tag distill_played_b0.1
++ $PY diag_global.py distill_played_b0.3 distill_played_b0.1

@@ -1,0 +1,37 @@
+{'step': 0, 'hr10': 0.216, 'entropy': 7.0619, 'kl_ref': 0.0, 'proxy_r': -0.2193, 'proxy_played': 0.6266, 'proxy_full': 0.6081, 'proxy_like': 0.0348, 'proxy_cont': 0.95, 'proxy_adopt': 0.0731, 'gold_r': -0.4084, 'gold_played': 0.5669, 'gold_full': 0.5464, 'gold_like': 0.0357, 'gold_cont': 0.9507, 'gold_adopt': 0.0662, 'min': 0.2875}
+step 50 r 0.0462 kl 0.1646 loss -0.0265
+step 100 r 0.1000 kl 0.1729 loss 0.0390
+step 150 r -0.2891 kl 0.1846 loss 0.0097
+step 200 r 0.0240 kl 0.1958 loss 0.0452
+step 250 r -0.0440 kl 0.1971 loss 0.0112
+{'step': 250, 'hr10': 0.2075, 'entropy': 6.9329, 'kl_ref': 0.0581, 'proxy_r': -0.1924, 'proxy_played': 0.635, 'proxy_full': 0.6171, 'proxy_like': 0.0341, 'proxy_cont': 0.9501, 'proxy_adopt': 0.0727, 'gold_r': -0.3934, 'gold_played': 0.5717, 'gold_full': 0.5509, 'gold_like': 0.0348, 'gold_cont': 0.9509, 'gold_adopt': 0.0654, 'min': 2.519}
+step 300 r 0.0527 kl 0.1820 loss -0.0124
+step 350 r -0.1453 kl 0.2111 loss 0.0244
+step 400 r 0.1219 kl 0.1810 loss 0.0184
+step 450 r 0.2490 kl 0.1873 loss 0.0039
+step 500 r -0.1317 kl 0.1638 loss 0.0142
+{'step': 500, 'hr10': 0.209, 'entropy': 6.8475, 'kl_ref': 0.0708, 'proxy_r': -0.1911, 'proxy_played': 0.6354, 'proxy_full': 0.6175, 'proxy_like': 0.0342, 'proxy_cont': 0.95, 'proxy_adopt': 0.0727, 'gold_r': -0.395, 'gold_played': 0.5712, 'gold_full': 0.5502, 'gold_like': 0.035, 'gold_cont': 0.9508, 'gold_adopt': 0.0654, 'min': 4.1527}
+step 550 r -0.1110 kl 0.1976 loss 0.0018
+step 600 r 0.0728 kl 0.1737 loss 0.0146
+step 650 r -0.0746 kl 0.1869 loss 0.0116
+step 700 r 0.0849 kl 0.1651 loss 0.0106
+step 750 r 0.0853 kl 0.1773 loss 0.0334
+{'step': 750, 'hr10': 0.2075, 'entropy': 6.8522, 'kl_ref': 0.0748, 'proxy_r': -0.1885, 'proxy_played': 0.6363, 'proxy_full': 0.6184, 'proxy_like': 0.034, 'proxy_cont': 0.95, 'proxy_adopt': 0.0728, 'gold_r': -0.3932, 'gold_played': 0.5717, 'gold_full': 0.5509, 'gold_like': 0.0347, 'gold_cont': 0.9508, 'gold_adopt': 0.0653, 'min': 5.0101}
+step 800 r -0.3312 kl 0.1903 loss 0.0246
+step 850 r 0.1316 kl 0.1568 loss 0.0367
+step 900 r -0.1928 kl 0.2472 loss 0.0099
+step 950 r 0.1392 kl 0.1685 loss 0.0165
+step 1000 r -0.2456 kl 0.1715 loss -0.0478
+{'step': 1000, 'hr10': 0.209, 'entropy': 6.8437, 'kl_ref': 0.0737, 'proxy_r': -0.1865, 'proxy_played': 0.6369, 'proxy_full': 0.6191, 'proxy_like': 0.034, 'proxy_cont': 0.95, 'proxy_adopt': 0.0728, 'gold_r': -0.3922, 'gold_played': 0.572, 'gold_full': 0.5512, 'gold_like': 0.0346, 'gold_cont': 0.9508, 'gold_adopt': 0.0652, 'min': 5.9237}
+step 1050 r -0.0043 kl 0.1672 loss -0.0280
+step 1100 r -0.0258 kl 0.1814 loss -0.0175
+step 1150 r -0.0883 kl 0.1688 loss 0.0210
+step 1200 r -0.0310 kl 0.2051 loss -0.0111
+step 1250 r -0.0044 kl 0.1936 loss -0.0260
+{'step': 1250, 'hr10': 0.2105, 'entropy': 6.8379, 'kl_ref': 0.0709, 'proxy_r': -0.1857, 'proxy_played': 0.6371, 'proxy_full': 0.6193, 'proxy_like': 0.034, 'proxy_cont': 0.95, 'proxy_adopt': 0.073, 'gold_r': -0.3923, 'gold_played': 0.572, 'gold_full': 0.5512, 'gold_like': 0.0347, 'gold_cont': 0.9508, 'gold_adopt': 0.0653, 'min': 7.5866}
+step 1300 r 0.1380 kl 0.1728 loss 0.0078
+step 1350 r 0.1479 kl 0.2101 loss 0.0127
+step 1400 r 0.0352 kl 0.1744 loss 0.0185
+step 1450 r -0.2505 kl 0.1672 loss -0.0666
+step 1500 r -0.0027 kl 0.1875 loss -0.0081
+{'step': 1500, 'hr10': 0.2115, 'entropy': 6.8313, 'kl_ref': 0.0704, 'proxy_r': -0.1856, 'proxy_played': 0.6372, 'proxy_full': 0.6194, 'proxy_like': 0.034, 'proxy_cont': 0.95, 'proxy_adopt': 0.0731, 'gold_r': -0.3916, 'gold_played': 0.5722, 'gold_full': 0.5514, 'gold_like': 0.0347, 'gold_cont': 0.9508, 'gold_adopt': 0.0653, 'min': 8.2967}

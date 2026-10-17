@@ -1,0 +1,189 @@
+++ dirname scripts/run_stage2d.sh
++ cd scripts/../src
++ PY=$PY
++ export PYTHONIOENCODING=utf-8
++ PYTHONIOENCODING=utf-8
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ $PY rl.py --reward played --beta 0.3 --lr 5e-4 --steps 6000 --eval_every 500 --tag grpo_played_b0.3_long
+ 60; done'
+results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ grep -q Traceback ../logs/grpo_played_b0.1_pess1.log
++ sleep 60
++ '[' -f ../results/eval2_grpo_played_b0.1_pess1.json ']'
++ $PY rerank.py full 1
++ $PY rerank.py pess 1
++ $PY rl.py --reward full --beta 0.3 --T 5 --B 16 --G 8 --rm_ctx real --steps 1000 --eval_every 200 --tag seq5_full_real

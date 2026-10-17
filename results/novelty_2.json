@@ -1,0 +1,155 @@
+{
+ "base": {
+  "Recall@10_full_known": 0.15218173321091508,
+  "Recall@10_full_new": 0.035915130333478956,
+  "Recall@10_skip_known": 0.11851305084992432,
+  "Recall@10_full": 0.14195735958457353,
+  "Recall@10_skip": 0.10118569142228141,
+  "selectivity_full_over_skip": 1.4029390676606481,
+  "new_in_list": 0.2196242900830057
+ },
+ "histfreq": {
+  "Recall@10_full_known": 0.20643454759009736,
+  "Recall@10_full_new": 3.9143730886850155e-05,
+  "Recall@10_skip_known": 0.17653954791981993,
+  "Recall@10_full": 0.1726552680235559,
+  "Recall@10_skip": 0.13427939839169717,
+  "selectivity_full_over_skip": 1.2857911942673077,
+  "new_in_list": 0.001961555264307558
+ },
+ "heur_a2.0_g1.0": {
+  "Recall@10_full_known": 0.20332512386577004,
+  "Recall@10_full_new": 0.013581622251347021,
+  "Recall@10_skip_known": 0.16730938555128652,
+  "Recall@10_full": 0.17351563278608542,
+  "Recall@10_skip": 0.13150640538211417,
+  "selectivity_full_over_skip": 1.319446245085221,
+  "new_in_list": 0.04072957623416339
+ },
+ "heur_a1.0_g2.0": {
+  "Recall@10_full_known": 0.192744919228765,
+  "Recall@10_full_new": 0.014715450706276396,
+  "Recall@10_skip_known": 0.15178404669732606,
+  "Recall@10_full": 0.16509561591793812,
+  "Recall@10_skip": 0.12010122500411231,
+  "selectivity_full_over_skip": 1.3746372354843606,
+  "new_in_list": 0.04785932721712538
+ },
+ "heur_a2.0_g4.0": {
+  "Recall@10_full_known": 0.20352792046121904,
+  "Recall@10_full_new": 0.006273015873015873,
+  "Recall@10_skip_known": 0.15716596082198162,
+  "Recall@10_full": 0.1705125559110659,
+  "Recall@10_skip": 0.12137102489217459,
+  "selectivity_full_over_skip": 1.4048868423295295,
+  "new_in_list": 0.016832678025338575
+ },
+ "exact_played_b1.0": {
+  "Recall@10_full_known": 0.15861977551138573,
+  "Recall@10_full_new": 0.03707380224260958,
+  "Recall@10_skip_known": 0.11776976122559864,
+  "Recall@10_full": 0.148425937082108,
+  "Recall@10_skip": 0.10074740665563843,
+  "selectivity_full_over_skip": 1.4732482156035844,
+  "new_in_list": 0.2182437745740498
+ },
+ "exact_played_b0.3": {
+  "Recall@10_full_known": 0.16705087802013283,
+  "Recall@10_full_new": 0.036924479394204165,
+  "Recall@10_skip_known": 0.11567663460045796,
+  "Recall@10_full": 0.15647631245044796,
+  "Recall@10_skip": 0.09922023796592004,
+  "selectivity_full_over_skip": 1.5770604430942214,
+  "new_in_list": 0.21381389252948885
+ },
+ "exact_full_b0.3": {
+  "Recall@10_full_known": 0.1680020596044567,
+  "Recall@10_full_new": 0.0366320372797437,
+  "Recall@10_skip_known": 0.11573139213917025,
+  "Recall@10_full": 0.15717628850184376,
+  "Recall@10_skip": 0.09891750438905493,
+  "selectivity_full_over_skip": 1.5889633434710375,
+  "new_in_list": 0.21179991262560072
+ },
+ "exact_played_b0.1": {
+  "Recall@10_full_known": 0.16331854802021556,
+  "Recall@10_full_new": 0.034256385612348915,
+  "Recall@10_skip_known": 0.09800162271510073,
+  "Recall@10_full": 0.15336107875818306,
+  "Recall@10_skip": 0.08350680057810346,
+  "selectivity_full_over_skip": 1.8365100530314926,
+  "new_in_list": 0.22896024464831802
+ },
+ "cross_played_b1.0": {
+  "Recall@10_full_known": 0.15730396535894192,
+  "Recall@10_full_new": 0.03688871414009029,
+  "Recall@10_skip_known": 0.1191788127740909,
+  "Recall@10_full": 0.1467459090280288,
+  "Recall@10_skip": 0.10165576256790491,
+  "selectivity_full_over_skip": 1.4435572103451015,
+  "new_in_list": 0.2176321537789428
+ },
+ "cross_played_b0.3": {
+  "Recall@10_full_known": 0.16764189764841148,
+  "Recall@10_full_new": 0.03687712246978302,
+  "Recall@10_skip_known": 0.12162777244149495,
+  "Recall@10_full": 0.15570032561176786,
+  "Recall@10_skip": 0.10351137326468096,
+  "selectivity_full_over_skip": 1.5041856822210111,
+  "new_in_list": 0.20893840104849282
+ },
+ "cross_played_b0.1": {
+  "Recall@10_full_known": 0.18338701539326865,
+  "Recall@10_full_new": 0.03442682394058541,
+  "Recall@10_skip_known": 0.12484160942290526,
+  "Recall@10_full": 0.1693813190474703,
+  "Recall@10_skip": 0.10637439750716163,
+  "selectivity_full_over_skip": 1.5923128404658344,
+  "new_in_list": 0.17539536915683704
+ },
+ "cross_played_b0.0": {
+  "Recall@10_full_known": 0.17279725716932598,
+  "Recall@10_full_new": 0.001560739769914082,
+  "Recall@10_skip_known": 0.11233148261342026,
+  "Recall@10_full": 0.14587673088165076,
+  "Recall@10_skip": 0.08668693856564547,
+  "selectivity_full_over_skip": 1.6827994308644618,
+  "new_in_list": 0.020611620795107033
+ },
+ "cross_distill_played_b0.3": {
+  "Recall@10_full_known": 0.17573936904968693,
+  "Recall@10_full_new": 0.034239114606087084,
+  "Recall@10_skip_known": 0.1279348646039508,
+  "Recall@10_full": 0.16127322903046828,
+  "Recall@10_skip": 0.10783333798878349,
+  "selectivity_full_over_skip": 1.4955785663172503,
+  "new_in_list": 0.1893577981651376
+ },
+ "grpo_played_b0.3": {
+  "Recall@10_full_known": 0.1503467827985806,
+  "Recall@10_full_new": 0.036268122906655015,
+  "Recall@10_skip_known": 0.11511929624131642,
+  "Recall@10_full": 0.14069606023148334,
+  "Recall@10_skip": 0.09800976920347318,
+  "selectivity_full_over_skip": 1.4355309820125308,
+  "new_in_list": 0.22433813892529492
+ },
+ "grpo_played_b0.1": {
+  "Recall@10_full_known": 0.14668368528582182,
+  "Recall@10_full_new": 0.034708373379933016,
+  "Recall@10_skip_known": 0.10901164765009509,
+  "Recall@10_full": 0.13686082514097694,
+  "Recall@10_skip": 0.0921929394408701,
+  "selectivity_full_over_skip": 1.4845044096761393,
+  "new_in_list": 0.22872433377020532
+ },
+ "posce": {
+  "Recall@10_full_known": 0.15480919708512206,
+  "Recall@10_full_new": 0.0371133245958934,
+  "Recall@10_skip_known": 0.11790262254045873,
+  "Recall@10_full": 0.14512370718443252,
+  "Recall@10_skip": 0.10005252899569526,
+  "selectivity_full_over_skip": 1.4504751518142678,
+  "new_in_list": 0.22222804718217562
+ }
+}

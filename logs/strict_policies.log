@@ -1,0 +1,6 @@
+grpo_played_b1.0 {'HR@10': 0.1772, 'Recall@10_full': 0.1366, 'Recall@10_skip': 0.0946, 'gold_played': 0.5775, 'kl_ref': 0.0452}
+grpo_played_b0.3 {'HR@10': 0.1751, 'Recall@10_full': 0.1369, 'Recall@10_skip': 0.0932, 'gold_played': 0.5813, 'kl_ref': 0.0741}
+grpo_played_b0.1 {'HR@10': 0.1643, 'Recall@10_full': 0.1337, 'Recall@10_skip': 0.0874, 'gold_played': 0.588, 'kl_ref': 0.2716}
+posce {'HR@10': 0.1824, 'Recall@10_full': 0.1412, 'Recall@10_skip': 0.0954, 'gold_played': 0.5779, 'kl_ref': 0.0834}
+dpo_b1 {'HR@10': 0.1623, 'Recall@10_full': 0.133, 'Recall@10_skip': 0.0907, 'gold_played': 0.5817, 'kl_ref': 0.1879}
+distill_played_b0.3_lr1e-4 {'HR@10': 0.1756, 'Recall@10_full': 0.1376, 'Recall@10_skip': 0.0934, 'gold_played': 0.5812, 'kl_ref': 0.1162}

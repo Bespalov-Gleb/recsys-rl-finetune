@@ -1,0 +1,42 @@
+{
+ "exact_played (r/beta)": {
+  "r2_item_constant": 0.33707096290934724,
+  "delta_std": 0.11946016550064087
+ },
+ "grpo_played_b0.3": {
+  "r2_item_constant": 0.3509742360515884,
+  "delta_std": 0.34846287965774536,
+  "corr_with_reward_top100": 0.3240414559841156,
+  "corr_with_reward_top1000": 0.34391388297080994
+ },
+ "grpo_played_b0.1": {
+  "r2_item_constant": 0.5170677245327036,
+  "delta_std": 0.6160662770271301,
+  "corr_with_reward_top100": 0.4095629155635834,
+  "corr_with_reward_top1000": 0.4485340714454651
+ },
+ "grpo_played_b0.3_long": {
+  "r2_item_constant": 0.24434892118237184,
+  "delta_std": 0.615099310874939,
+  "corr_with_reward_top100": 0.2642465829849243,
+  "corr_with_reward_top1000": 0.30250704288482666
+ },
+ "grpo_played_b0.3_long_G64": {
+  "r2_item_constant": 0.24117817863624902,
+  "delta_std": 0.5931225419044495,
+  "corr_with_reward_top100": 0.2781483829021454,
+  "corr_with_reward_top1000": 0.31199175119400024
+ },
+ "epg_played_b0.3": {
+  "r2_item_constant": 0.16420589695079635,
+  "delta_std": 0.7715566754341125,
+  "corr_with_reward_top100": 0.1989157348871231,
+  "corr_with_reward_top1000": 0.1709652692079544
+ },
+ "grpo_played_b0.3_frozen": {
+  "r2_item_constant": 0.1833213465530532,
+  "delta_std": 0.3427787125110626,
+  "corr_with_reward_top100": 0.1950683742761612,
+  "corr_with_reward_top1000": 0.19065938889980316
+ }
+}

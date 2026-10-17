@@ -1,0 +1,107 @@
+++ dirname scripts/run_stage2b.sh
++ cd scripts/../src
++ PY=$PY
++ export PYTHONIOENCODING=utf-8
++ PYTHONIOENCODING=utf-8
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ pgrep -f 'rerank.py sweep'
++ '[' -f ../results/eval1_exact_paper2_b0.0.json ']'
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ pgrep -f 'rerank.py sweep'
++ '[' -f ../results/eval1_exact_paper2_b0.0.json ']'
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ pgrep -f 'rerank.py sweep'
++ '[' -f ../results/eval1_exact_paper2_b0.0.json ']'
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ pgrep -f 'rerank.py sweep'
++ '[' -f ../results/eval1_exact_paper2_b0.0.json ']'
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ pgrep -f 'rerank.py sweep'
++ '[' -f ../results/eval1_exact_paper2_b0.0.json ']'
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ pgrep -f 'rerank.py sweep'
++ '[' -f ../results/eval1_exact_paper2_b0.0.json ']'
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ pgrep -f 'rerank.py sweep'
++ '[' -f ../results/eval1_exact_paper2_b0.0.json ']'
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ pgrep -f 'rerank.py sweep'
++ '[' -f ../results/eval1_exact_paper2_b0.0.json ']'
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ pgrep -f 'rerank.py sweep'
++ '[' -f ../results/eval1_exact_paper2_b0.0.json ']'
++ sleep 30
++ grep -q 'rerank.py sweep 1' ../logs/stage2a.log
++ pgrep -f 'rerank.py sweep'
++ '[' -f ../results/eval1_exact_paper2_b0.0.json ']'
++ $PY baselines.py posce --steps 3000 --lr 1e-4
++ $PY baselines.py dpo --steps 1500 --lr 1e-4 --beta 0.1
++ $PY multistep.py base

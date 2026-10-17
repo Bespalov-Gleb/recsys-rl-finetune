@@ -1,0 +1,6 @@
+features (1500000, 24) 161.27962231636047
+played {'iters': 263, 'val': np.float64(0.39041921451582107)}
+full {'iters': 222, 'val': np.float64(0.3836337472619441)}
+like {'iters': 100, 'val': np.float64(0.07961528044633887)}
+cont {'iters': 84, 'val': np.float64(0.17319560899451777)}
+adopt {'iters': 87, 'val': np.float64(0.12686873518455336)}

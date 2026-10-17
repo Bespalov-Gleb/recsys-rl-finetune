@@ -1,0 +1,67 @@
+++ dirname scripts/run_stage2a.sh
++ cd scripts/../src
++ PY=$PY
++ export PYTHONIOENCODING=utf-8
++ PYTHONIOENCODING=utf-8
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ sleep 30
++ '[' -f ../logs/rm2_eval.log ']'
++ grep -q full_gauc ../logs/rm2_eval.log
++ $PY simple.py
++ $PY rerank.py cache 1
++ $PY rm_analysis.py
++ $PY rerank.py sweep 1

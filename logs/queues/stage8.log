@@ -1,0 +1,151 @@
+++ dirname scripts/run_stage8.sh
++ cd scripts/../src
++ PY=$PY
++ export PYTHONIOENCODING=utf-8
++ PYTHONIOENCODING=utf-8
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ grep -q Traceback ../logs/diag_cross.log
++ sleep 60
++ grep -q cross_distill_played_b0.3 ../logs/diag_cross.log
++ $PY bottleneck.py --cross-only

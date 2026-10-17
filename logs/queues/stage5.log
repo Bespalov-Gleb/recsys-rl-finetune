@@ -1,0 +1,15 @@
+++ dirname scripts/run_stage5.sh
++ cd scripts/../src
++ PY=$PY
++ export PYTHONIOENCODING=utf-8
++ PYTHONIOENCODING=utf-8
++ for s in 1 2
++ for b in 0.3 0.1
++ $PY rl.py --reward played --beta 0.3 --seed 1 --tag grpo_played_b0.3_s1
++ for b in 0.3 0.1
++ $PY rl.py --reward played --beta 0.1 --seed 1 --tag grpo_played_b0.1_s1
++ for s in 1 2
++ for b in 0.3 0.1
++ $PY rl.py --reward played --beta 0.3 --seed 2 --tag grpo_played_b0.3_s2
++ for b in 0.3 0.1
++ $PY rl.py --reward played --beta 0.1 --seed 2 --tag grpo_played_b0.1_s2

@@ -1,0 +1,6 @@
+data/
+checkpoints/
+.venv/
+__pycache__/
+results/*.npz
+results/*.npy

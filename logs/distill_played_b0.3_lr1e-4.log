@@ -1,0 +1,67 @@
+{'step': 0, 'hr10': 0.216, 'entropy': 7.0619, 'kl_ref': 0.0, 'proxy_r': -0.2193, 'proxy_played': 0.6266, 'proxy_full': 0.6081, 'proxy_like': 0.0348, 'proxy_cont': 0.95, 'proxy_adopt': 0.0731, 'gold_r': -0.4084, 'gold_played': 0.5669, 'gold_full': 0.5464, 'gold_like': 0.0357, 'gold_cont': 0.9507, 'gold_adopt': 0.0662, 'min': 0.049}
+step 50 kl 0.1798 ce 8.0062
+step 100 kl 0.1928 ce 8.4100
+step 150 kl 0.2305 ce 8.0767
+step 200 kl 0.2254 ce 8.4897
+step 250 kl 0.2129 ce 8.6915
+step 300 kl 0.2265 ce 8.3344
+step 350 kl 0.2369 ce 7.9040
+step 400 kl 0.2128 ce 7.9753
+step 450 kl 0.2389 ce 8.4608
+step 500 kl 0.2568 ce 8.1660
+{'step': 500, 'hr10': 0.2055, 'entropy': 7.1848, 'kl_ref': 0.0966, 'proxy_r': -0.1937, 'proxy_played': 0.6346, 'proxy_full': 0.6167, 'proxy_like': 0.0339, 'proxy_cont': 0.9501, 'proxy_adopt': 0.0719, 'gold_r': -0.3944, 'gold_played': 0.5714, 'gold_full': 0.5506, 'gold_like': 0.0351, 'gold_cont': 0.9508, 'gold_adopt': 0.0652, 'min': 1.1352}
+step 550 kl 0.1930 ce 8.2110
+step 600 kl 0.2344 ce 8.4986
+step 650 kl 0.2325 ce 7.9811
+step 700 kl 0.2376 ce 7.8965
+step 750 kl 0.2160 ce 7.7450
+step 800 kl 0.2010 ce 8.3004
+step 850 kl 0.2529 ce 8.2005
+step 900 kl 0.2192 ce 8.1151
+step 950 kl 0.2194 ce 8.4062
+step 1000 kl 0.1939 ce 8.0430
+{'step': 1000, 'hr10': 0.2085, 'entropy': 7.2862, 'kl_ref': 0.1239, 'proxy_r': -0.1908, 'proxy_played': 0.6355, 'proxy_full': 0.6176, 'proxy_like': 0.0337, 'proxy_cont': 0.9501, 'proxy_adopt': 0.0718, 'gold_r': -0.3931, 'gold_played': 0.5718, 'gold_full': 0.5511, 'gold_like': 0.035, 'gold_cont': 0.951, 'gold_adopt': 0.0653, 'min': 2.2175}
+step 1050 kl 0.3051 ce 7.9744
+step 1100 kl 0.1771 ce 8.0287
+step 1150 kl 0.2160 ce 8.2121
+step 1200 kl 0.2405 ce 8.0892
+step 1250 kl 0.2227 ce 7.7118
+step 1300 kl 0.1870 ce 7.6795
+step 1350 kl 0.2166 ce 8.2322
+step 1400 kl 0.2099 ce 8.3558
+step 1450 kl 0.2033 ce 8.2984
+step 1500 kl 0.2257 ce 7.9103
+{'step': 1500, 'hr10': 0.2075, 'entropy': 7.1856, 'kl_ref': 0.1191, 'proxy_r': -0.1889, 'proxy_played': 0.6361, 'proxy_full': 0.6183, 'proxy_like': 0.0339, 'proxy_cont': 0.9501, 'proxy_adopt': 0.0723, 'gold_r': -0.3916, 'gold_played': 0.5723, 'gold_full': 0.5514, 'gold_like': 0.0349, 'gold_cont': 0.9509, 'gold_adopt': 0.0652, 'min': 3.3021}
+step 1550 kl 0.2298 ce 7.8110
+step 1600 kl 0.2517 ce 8.1014
+step 1650 kl 0.2421 ce 8.2692
+step 1700 kl 0.2242 ce 7.7971
+step 1750 kl 0.2242 ce 8.0460
+step 1800 kl 0.2567 ce 7.8083
+step 1850 kl 0.2145 ce 7.5763
+step 1900 kl 0.2356 ce 7.8828
+step 1950 kl 0.2306 ce 8.5679
+step 2000 kl 0.2769 ce 8.1475
+{'step': 2000, 'hr10': 0.206, 'entropy': 7.2371, 'kl_ref': 0.1234, 'proxy_r': -0.1882, 'proxy_played': 0.6363, 'proxy_full': 0.6185, 'proxy_like': 0.0338, 'proxy_cont': 0.9501, 'proxy_adopt': 0.0723, 'gold_r': -0.3908, 'gold_played': 0.5725, 'gold_full': 0.5517, 'gold_like': 0.0349, 'gold_cont': 0.9509, 'gold_adopt': 0.0652, 'min': 4.3608}
+step 2050 kl 0.2167 ce 8.0012
+step 2100 kl 0.2323 ce 7.9808
+step 2150 kl 0.2509 ce 7.9592
+step 2200 kl 0.2382 ce 7.9849
+step 2250 kl 0.2021 ce 8.2431
+step 2300 kl 0.2089 ce 8.0303
+step 2350 kl 0.2188 ce 8.0649
+step 2400 kl 0.2041 ce 8.2324
+step 2450 kl 0.1984 ce 8.0082
+step 2500 kl 0.2173 ce 7.9955
+{'step': 2500, 'hr10': 0.204, 'entropy': 7.2403, 'kl_ref': 0.1208, 'proxy_r': -0.1887, 'proxy_played': 0.6362, 'proxy_full': 0.6184, 'proxy_like': 0.0338, 'proxy_cont': 0.9501, 'proxy_adopt': 0.0721, 'gold_r': -0.3911, 'gold_played': 0.5724, 'gold_full': 0.5516, 'gold_like': 0.0349, 'gold_cont': 0.9509, 'gold_adopt': 0.0654, 'min': 5.4468}
+step 2550 kl 0.1870 ce 8.1219
+step 2600 kl 0.2077 ce 7.9799
+step 2650 kl 0.2205 ce 7.8828
+step 2700 kl 0.2248 ce 7.9439
+step 2750 kl 0.2417 ce 8.3143
+step 2800 kl 0.1801 ce 7.6923
+step 2850 kl 0.2209 ce 8.3917
+step 2900 kl 0.2155 ce 8.4503
+step 2950 kl 0.2201 ce 7.9370
+step 3000 kl 0.2380 ce 7.9285
+{'step': 3000, 'hr10': 0.2055, 'entropy': 7.2259, 'kl_ref': 0.1188, 'proxy_r': -0.1885, 'proxy_played': 0.6363, 'proxy_full': 0.6184, 'proxy_like': 0.0338, 'proxy_cont': 0.9501, 'proxy_adopt': 0.0722, 'gold_r': -0.3906, 'gold_played': 0.5726, 'gold_full': 0.5518, 'gold_like': 0.0349, 'gold_cont': 0.9509, 'gold_adopt': 0.0654, 'min': 6.5298}

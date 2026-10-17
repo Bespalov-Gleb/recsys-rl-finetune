@@ -1,0 +1,15 @@
+heur_a0.0_g1.0 {'HR@10': 0.2071, 'NDCG@10_all': 0.1639, 'Recall@10_full': 0.1528, 'Recall@10_skip': 0.1107, 'gold_played': 0.58, 'repeat_share': 0.8566, 'coverage': 0.3955}
+heur_a0.0_g2.0 {'HR@10': 0.2071, 'NDCG@10_all': 0.1653, 'Recall@10_full': 0.1557, 'Recall@10_skip': 0.1113, 'gold_played': 0.5904, 'repeat_share': 0.9075, 'coverage': 0.4042}
+heur_a0.0_g4.0 {'HR@10': 0.1987, 'NDCG@10_all': 0.1645, 'Recall@10_full': 0.1573, 'Recall@10_skip': 0.1091, 'gold_played': 0.6018, 'repeat_share': 0.9552, 'coverage': 0.4139}
+heur_a0.5_g0.0 {'HR@10': 0.2138, 'NDCG@10_all': 0.1743, 'Recall@10_full': 0.1604, 'Recall@10_skip': 0.1159, 'gold_played': 0.5734, 'repeat_share': 0.8304, 'coverage': 0.3909}
+heur_a0.5_g1.0 {'HR@10': 0.2133, 'NDCG@10_all': 0.1747, 'Recall@10_full': 0.1627, 'Recall@10_skip': 0.1192, 'gold_played': 0.5853, 'repeat_share': 0.8944, 'coverage': 0.4002}
+heur_a0.5_g2.0 {'HR@10': 0.2108, 'NDCG@10_all': 0.1749, 'Recall@10_full': 0.1657, 'Recall@10_skip': 0.1176, 'gold_played': 0.5945, 'repeat_share': 0.9309, 'coverage': 0.4078}
+heur_a0.5_g4.0 {'HR@10': 0.1986, 'NDCG@10_all': 0.1719, 'Recall@10_full': 0.1649, 'Recall@10_skip': 0.1136, 'gold_played': 0.604, 'repeat_share': 0.9643, 'coverage': 0.4138}
+heur_a1.0_g0.0 {'HR@10': 0.2168, 'NDCG@10_all': 0.1825, 'Recall@10_full': 0.1689, 'Recall@10_skip': 0.1244, 'gold_played': 0.5776, 'repeat_share': 0.8776, 'coverage': 0.3966}
+heur_a1.0_g1.0 {'HR@10': 0.2163, 'NDCG@10_all': 0.1826, 'Recall@10_full': 0.1709, 'Recall@10_skip': 0.1253, 'gold_played': 0.5893, 'repeat_share': 0.9224, 'coverage': 0.4047}
+heur_a1.0_g2.0 {'HR@10': 0.2128, 'NDCG@10_all': 0.1826, 'Recall@10_full': 0.1723, 'Recall@10_skip': 0.1244, 'gold_played': 0.5976, 'repeat_share': 0.9475, 'coverage': 0.4111}
+heur_a1.0_g4.0 {'HR@10': 0.2005, 'NDCG@10_all': 0.1779, 'Recall@10_full': 0.1702, 'Recall@10_skip': 0.1182, 'gold_played': 0.6059, 'repeat_share': 0.9712, 'coverage': 0.4143}
+heur_a2.0_g0.0 {'HR@10': 0.217, 'NDCG@10_all': 0.1931, 'Recall@10_full': 0.1793, 'Recall@10_skip': 0.1373, 'gold_played': 0.5836, 'repeat_share': 0.9345, 'coverage': 0.4095}
+heur_a2.0_g1.0 {'HR@10': 0.213, 'NDCG@10_all': 0.1934, 'Recall@10_full': 0.1807, 'Recall@10_skip': 0.1347, 'gold_played': 0.5935, 'repeat_share': 0.9546, 'coverage': 0.4124}
+heur_a2.0_g2.0 {'HR@10': 0.2101, 'NDCG@10_all': 0.1924, 'Recall@10_full': 0.1811, 'Recall@10_skip': 0.1311, 'gold_played': 0.6006, 'repeat_share': 0.9673, 'coverage': 0.4146}
+heur_a2.0_g4.0 {'HR@10': 0.1983, 'NDCG@10_all': 0.1865, 'Recall@10_full': 0.1771, 'Recall@10_skip': 0.1226, 'gold_played': 0.6079, 'repeat_share': 0.9792, 'coverage': 0.4163}

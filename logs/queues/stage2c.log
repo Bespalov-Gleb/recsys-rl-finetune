@@ -1,0 +1,126 @@
+++ dirname scripts/run_stage2c.sh
++ cd scripts/../src
++ PY=$PY
++ export PYTHONIOENCODING=utf-8
++ PYTHONIOENCODING=utf-8
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ grep -q Traceback ../logs/multistep_base.log
++ sleep 30
++ '[' -f ../results/multistep_base.json ']'
++ for b in 0.3 1.0 0.1 0.0
++ $PY rl.py --reward played --beta 0.3 --tag grpo_played_b0.3
++ for b in 0.3 1.0 0.1 0.0
++ $PY rl.py --reward played --beta 1.0 --tag grpo_played_b1.0
++ for b in 0.3 1.0 0.1 0.0
++ $PY rl.py --reward played --beta 0.1 --tag grpo_played_b0.1
++ for b in 0.3 1.0 0.1 0.0
++ $PY rl.py --reward played --beta 0.0 --tag grpo_played_b0.0
++ for r in full seconds played_db like lt paper2
++ $PY rl.py --reward full --beta 0.3 --tag grpo_full_b0.3
++ for r in full seconds played_db like lt paper2
++ $PY rl.py --reward seconds --beta 0.3 --tag grpo_seconds_b0.3
++ for r in full seconds played_db like lt paper2
++ $PY rl.py --reward played_db --beta 0.3 --tag grpo_played_db_b0.3
++ for r in full seconds played_db like lt paper2
++ $PY rl.py --reward like --beta 0.3 --tag grpo_like_b0.3
++ for r in full seconds played_db like lt paper2
++ $PY rl.py --reward lt --beta 0.3 --tag grpo_lt_b0.3
++ for r in full seconds played_db like lt paper2
++ $PY rl.py --reward paper2 --beta 0.3 --tag grpo_paper2_b0.3
++ $PY rl.py --reward played --beta 0.1 --ens rm0,rm1,rm2 --pess 1.0 --tag grpo_played_b0.1_pess1
